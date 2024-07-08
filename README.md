@@ -18,6 +18,6 @@ Pronouns: He/Him
 
 ## Connect with me on social media:
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gustavo-gomes-a03b76301/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gomes-a03b76301/)
 &nbsp;
 [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/gustavogomesu)
