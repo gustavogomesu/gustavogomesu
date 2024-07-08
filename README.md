@@ -1,4 +1,4 @@
-# Hi there! I'm Gustavo Gomes (@gustavogomesu)! ![Waving Hand](https://media3.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif?cid=6c09b952u2ltfyokqqhzk7eyu2idn5dqnbzkkpozu8f8bzhn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+# Hi there! I'm Gustavo Gomes! ![Waving Hand](https://media3.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif?cid=6c09b952u2ltfyokqqhzk7eyu2idn5dqnbzkkpozu8f8bzhn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 ---
 
