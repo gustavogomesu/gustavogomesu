@@ -1,4 +1,8 @@
-## Hi there! I'm Gustavo Gomes (@gustavogomesu)!
+# Hi there! I'm Gustavo Gomes (@gustavogomesu)!
+
+---
+
+## About Me
 
 I'm a 16-year-old tech enthusiast on a mission to conquer the exciting world of IT! 
 
