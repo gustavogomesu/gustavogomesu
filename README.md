@@ -1,19 +1,23 @@
-- 👋 I’m @gustavogomesu
-- 👀 I’m passionate about everything tech! From coding to network configurations, I'm always excited to learn and explore new technologies.
-- 🌱 I’m currently diving into the worlds of Python programming, network basics, and web development. Every day is a new adventure in learning!
-- 💞️ I’m looking to collaborate on exciting open-source projects, coding challenges, and anything that pushes the boundaries of my knowledge.
-- 📫 How to reach me: gustavogomesu@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not glued to my computer screen, you can find me solving puzzles, watching sci-fi movies, or dreaming up my next big tech project!
+## Hi there! I'm Gustavo Gomes (@gustavogomesu)!
+
+I'm a 16-year-old tech enthusiast on a mission to conquer the exciting world of IT! 
+
+I'm passionate about everything tech, from the intricate world of coding to the fascinating realm of network configurations. Every day brings a new adventure in learning, and I'm always eager to explore and expand my skillset. 
+
+Currently, I'm diving deep into the world of programming, network basics, and web development. My journey has just begun, and I'm fueled by the thrill of discovery and the potential to create something amazing. ✨
+
+I'm always on the lookout for opportunities to collaborate on open-source projects, coding challenges, or anything that pushes my limits and broadens my horizons. Let's build something cool together! 
+
+Feel free to reach out: gustavogomesu@gmail.com
+
+Pronouns: He/Him
+
+⚡ Fun fact: When I'm not glued to my computer screen, you can find me tackling puzzles, devouring sci-fi movies, or brainstorming my next big tech project! 
 
 ---
 
-## 	Hello! I'm Gustavo Gomes!
+## Connect with me on social media:
 
-I'm a 16-year-old tech enthusiast with a strong passion for Information Technology. Currently, I'm diving deep into learning programming languages, network configurations, and tech support. My journey in the tech world has just begun, and I'm excited to continue exploring and expanding my skills.
-
-I'm dedicated to continuous learning, often engaging in online courses, tutorials, and personal projects to enhance my knowledge. I'm particularly interested in areas such as cybersecurity, web development, and database management.
-
-Even though I'm at the start of my professional journey, I'm eager to find opportunities that allow me to apply my growing skill set in real-world scenarios. I believe that my curiosity, dedication, and willingness to learn will help me overcome challenges and achieve my goals in the IT field.
-
-Feel free to explore my repositories where I showcase my learning progress and projects. I'm always open to feedback and collaboration, so don't hesitate to reach out!
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gustavo-gomes-a03b76301/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/gustavogomesu)
