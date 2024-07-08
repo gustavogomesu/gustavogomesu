@@ -1,4 +1,4 @@
-# Hi there! I'm Gustavo Gomes!
+# Hi there! I'm Gustavo Gomes (@gustavogomesu)! ![Waving Hand](https://giphy.com/gifs/hello-hi-henlo-FAFo1M7EC4gRZ4HETH)
 
 ---
 
