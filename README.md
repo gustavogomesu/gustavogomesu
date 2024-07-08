@@ -20,4 +20,4 @@ Pronouns: He/Him
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gomes-a03b76301/)
 &nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/gustavogomesu)
+[![GitHub](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)](https://github.com/gustavogomesu)
