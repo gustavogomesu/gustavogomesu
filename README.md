@@ -1,12 +1,6 @@
-<h1 align="center">
-  <marquee behavior="scroll" direction="left">Hi there! I'm Gustavo Gomes 💻</marquee>
-</h1>
-
----
-
-<h3 align="center">
-  <marquee behavior="scroll" direction="right">💡 Coding my dreams into reality 💡</marquee>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there!+I'm+Gustavo+Gomes+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -33,7 +27,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -84,4 +78,6 @@
   <img src="https://komarev.com/ghpvc/?username=gustavogomesu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=💡+Coding+my+dreams+into+reality+💡" alt="Typing SVG" />
+</p>
