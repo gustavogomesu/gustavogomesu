@@ -77,7 +77,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavogomesu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=💡+Coding+my+dreams+into+reality+💡" alt="Typing SVG" />
-</p>
