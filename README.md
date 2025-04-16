@@ -1,4 +1,15 @@
-<h1 align="center">Hi there! I'm Gustavo Gomes 💻</h1>
+<h1 align="center">
+  <marquee behavior="scroll" direction="left">Hi there! I'm Gustavo Gomes 💻</marquee>
+</h1>
+
+---
+
+<h3 align="center">
+  <marquee behavior="scroll" direction="right">💡 Coding my dreams into reality 💡</marquee>
+</h3>
+
+---
+
 <p align="center">
   <img src="https://media3.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif?cid=6c09b952u2ltfyokqqhzk7eyu2idn5dqnbzkkpozu8f8bzhn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100" alt="wave gif"/>
 </p>
@@ -72,3 +83,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavogomesu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
+
+
