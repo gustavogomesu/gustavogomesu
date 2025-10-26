@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 👋 I'm a 16-year-old tech enthusiast passionate about all things IT!
+- 👋 I'm a 17-year-old tech enthusiast passionate about all things IT!
 - 💻 Learning `Programming`, `Networking`, `Web Development` and `Game Dev`
 - ✨ Love creating, solving problems and exploring new technologies
 - 🤝 Open to collaborations, open source projects, and coding adventures
