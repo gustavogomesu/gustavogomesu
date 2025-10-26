@@ -109,14 +109,6 @@ current_status: "Building amazing things and learning every day"
 
 ---
 
-## <img src="https://img.icons8.com/color/25/000000/trophy.png"/> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavogomesu&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <div align="center">
