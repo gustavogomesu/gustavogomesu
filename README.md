@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Age-17-blue?style=flat-square&logo=calendar&logoColor=white" alt="Age">
+  <img src="https://img.shields.io/badge/Age-18-blue?style=flat-square&logo=calendar&logoColor=white" alt="Age">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square&logo=code&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Lives-Brazil-yellow?style=flat-square&logo=location&logoColor=white" alt="Lives">
   <img src="https://img.shields.io/badge/Languages-Portuguese%20%7C%20English-red?style=flat-square&logo=language&logoColor=white" alt="Languages">
@@ -23,10 +23,10 @@
 
 ```yaml
 name: Gustavo Gomes
-age: 17
+age: 18
 role: Full Stack Developer
 location: Brazil
-code: [JavaScript, Python, Java, C#, C++, PHP]
+code: [JavaScript, TypeScript, Python, Java, C#, PHP]
 frameworks: [React, Vue, Next.js, Spring Boot, FastAPI, Flask]
 interests: [Web Development, Game Development, Networking, Cybersecurity]
 current_status: "Building amazing things and learning every day"
@@ -45,13 +45,13 @@ current_status: "Building amazing things and learning every day"
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
   <img width="12" />
