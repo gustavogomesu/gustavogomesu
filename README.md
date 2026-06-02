@@ -98,17 +98,12 @@ current_status: "Building amazing things and learning every day"
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavogomesu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavogomesu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-2kls.vercel.app/api?username=gustavogomesu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-2kls.vercel.app/api/top-langs?username=gustavogomesu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gustavogomesu&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph" />
-</div>
-
-### <img src="https://img.icons8.com/color/25/000000/trophy.png"/> Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavogomesu&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </div>
 
 ### <img src="https://img.icons8.com/color/25/000000/combo-chart.png"/> Activity Graph
