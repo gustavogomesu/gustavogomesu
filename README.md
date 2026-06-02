@@ -1,20 +1,19 @@
+<!-- BANNER DE TOPO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Gustavo%20Gomes&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20from%20Brazil&descSize=20&descAlignY=58" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
-  <h1>Hello, I'm Gustavo Gomes</h1>
-  <h3>Passionate Full Stack Developer from Brazil</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&color=BD93F9&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Age-18-blue?style=flat-square&logo=calendar&logoColor=white" alt="Age">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square&logo=code&logoColor=white" alt="Focus">
-  <img src="https://img.shields.io/badge/Lives-Brazil-yellow?style=flat-square&logo=location&logoColor=white" alt="Lives">
-  <img src="https://img.shields.io/badge/Languages-Portuguese%20%7C%20English-red?style=flat-square&logo=language&logoColor=white" alt="Languages">
+  <img src="https://img.shields.io/badge/Age-18-bd93f9?style=flat-square&logo=calendar&logoColor=white" alt="Age">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff79c6?style=flat-square&logo=code&logoColor=white" alt="Focus">
+  <img src="https://img.shields.io/badge/Lives-Brazil-50fa7b?style=flat-square&logo=location&logoColor=white" alt="Lives">
+  <img src="https://img.shields.io/badge/Languages-Portuguese%20%7C%20English-8be9fd?style=flat-square&logo=language&logoColor=white" alt="Languages">
 </div>
 
 ---
@@ -99,12 +98,33 @@ current_status: "Building amazing things and learning every day"
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavogomesu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavogomesu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavogomesu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavogomesu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gustavogomesu&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=gustavogomesu&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph" />
+</div>
+
+### <img src="https://img.icons8.com/color/25/000000/trophy.png"/> Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavogomesu&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</div>
+
+### <img src="https://img.icons8.com/color/25/000000/combo-chart.png"/> Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavogomesu&theme=dracula&hide_border=true&area=true" width="95%" alt="activity graph" />
+</div>
+
+---
+
+<!-- COBRINHA / SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavogomesu/gustavogomesu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavogomesu/gustavogomesu/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gustavogomesu/gustavogomesu/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -126,10 +146,10 @@ current_status: "Building amazing things and learning every day"
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavogomesu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gustavogomesu&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/gustavogomesu?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />
 </div>
